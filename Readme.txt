@@ -6,4 +6,4 @@ How to run CRUD Script using PHP OOP and MYSQL
 4.Open PHPMyAdmin (http://localhost/phpmyadmin)
 5.Create a database with name oopscrud
 6.Import oopscrud.sql file(given inside the zip package in SQL file folder)
-7.Run the script http://localhost/phpoopcrud (frontend)
+7.Run the script http://localhost/phpoopcrud
